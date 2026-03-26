@@ -1,8 +1,8 @@
 # Hi there 👋 I'm santamore
 ## About Me
-*💻 Beginner developer
-*📚 Currently learning programming
-*🚀 Building my first projects
+* 💻 Beginner developer
+* 📚 Currently learning programming
+* 🚀 Building my first projects
 
 ---
 
